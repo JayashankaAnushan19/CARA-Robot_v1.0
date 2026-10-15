@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.log
+
+# Environment and secrets (never commit)
+.env
+.env.*
+*.pem
+*.key
+
+# Claude Code local settings
+.claude/
